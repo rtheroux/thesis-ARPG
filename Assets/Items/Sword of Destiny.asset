@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b11836d9d048c6646b24bdca5a4e005d, type: 3}
+  m_Name: Sword of Destiny
+  m_EditorClassIdentifier: 
+  name: Sword of Destiny
+  icon: {fileID: 21300000, guid: ef6b6c0e83a0871428c020730ff09176, type: 3}
+  isDefault: 0
+  equipSlot: 3
+  armorModifier: 0
+  damageModifier: 3
