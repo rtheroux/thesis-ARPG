@@ -94,6 +94,7 @@
      <Compile Include="Assets\EquipmentManager.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\CharacterAnimator.cs" />
+     <Compile Include="Assets\Scripts\Helper\ConvertToRegularMesh.cs" />
      <Compile Include="Assets\Scripts\Interactable.cs" />
      <Compile Include="Assets\Scripts\Inventory\Inventory.cs" />
      <Compile Include="Assets\Scripts\Inventory\InventorySlot.cs" />
@@ -103,6 +104,9 @@
      <Compile Include="Assets\Scripts\Items\ItemPickup.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerMotor.cs" />
+     <Compile Include="Assets\Scripts\Stats\CharacterStats.cs" />
+     <Compile Include="Assets\Scripts\Stats\PlayerStats.cs" />
+     <Compile Include="Assets\Scripts\Stats\Stat.cs" />
      <None Include="Assets\Environment\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\Environment\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
      <None Include="Assets\Environment\PostProcessing\Resources\Shaders\Fog.shader" />

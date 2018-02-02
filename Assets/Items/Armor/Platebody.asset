@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b11836d9d048c6646b24bdca5a4e005d, type: 3}
+  m_Name: Platebody
+  m_EditorClassIdentifier: 
+  name: Platebody
+  icon: {fileID: 21300000, guid: ae68055d8b9d2084f9abc693f184c0d5, type: 3}
+  isDefault: 0
+  equipSlot: 1
+  mesh: {fileID: 137249975813194684, guid: b281e274db0683d499a94d2e6206187b, type: 2}
+  coveredMeshRegions: 0200000001000000
+  armorModifier: 3
+  damageModifier: 3
